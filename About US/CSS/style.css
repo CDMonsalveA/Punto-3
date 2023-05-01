@@ -1,0 +1,18 @@
+.nav-item:not(:last-child){
+    border-right: #52D7EC 1px solid;
+}
+.nav-item{
+    color: #52D7EC;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.display-1{
+    font-weight: bold;
+    text-shadow: black 2px 2px 4px;
+}
+.display-2{
+    font-weight: 400;
+}
+main{
+    background-color: #52D7EC;
+}
